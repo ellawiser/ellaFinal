@@ -7,7 +7,7 @@
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
-        "url": "adding_exercises"
+        "url": "web:4000/t/trainers/exercises"
       },
       "invalids": [],
       "messages": [],
