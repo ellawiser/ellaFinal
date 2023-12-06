@@ -7,7 +7,7 @@
     "displayName": "Tabs",
     "iconSVG": "/static/media/icon.9e3d67c0af9c0bd092dc56240314e18a.svg",
     "topRow": 1,
-    "bottomRow": 26,
+    "bottomRow": 28,
     "parentRowSpace": 10,
     "type": "TABS_WIDGET",
     "hideCard": false,
@@ -118,7 +118,7 @@
             "widgetName": "Canvas4",
             "displayName": "Canvas",
             "topRow": 1,
-            "bottomRow": 210,
+            "bottomRow": 230,
             "parentRowSpace": 1,
             "type": "CANVAS_WIDGET",
             "canExtend": false,
@@ -164,7 +164,7 @@
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "f4gexm3dhp",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-    "defaultTab": "Sign up",
+    "defaultTab": "Act as",
     "shouldShowTabs": true,
     "minWidth": 450,
     "tabsObj": {
@@ -207,6 +207,6 @@
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
-    "originalBottomRow": 25,
+    "originalBottomRow": 28,
     "minDynamicHeight": 15
 }
