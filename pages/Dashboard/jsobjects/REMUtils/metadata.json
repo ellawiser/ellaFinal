@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "REMUtils",
+    "pageId": "Dashboard",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Dashboard_REMUtils",
+  "deleted": false,
+  "gitSyncId": "656ff3c14b88fa48ff0634d7_657006624b88fa48ff0635bb"
+}
